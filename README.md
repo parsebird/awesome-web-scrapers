@@ -65,6 +65,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 
 - [Rednote (Xiaohongshu) Profile Scraper](https://apify.com/parsebird/rednote-profile-scraper?fpr=5wqcrs) - Scrape user profiles from Rednote (小红书) — bio, follower count, following, likes, RedID, location, gender, and tags. `pay-per-event`
 - [Rednote (Xiaohongshu) Posts Scraper](https://apify.com/parsebird/rednote-posts-scraper?fpr=5wqcrs) - Scrape all posts from Rednote user profiles — titles, cover images, likes, and post type. `pay-per-event`
+- [SocialCrawl](https://www.socialcrawl.dev) - Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema. `freemium`
 
 ## Newsletters & Publishing
 
