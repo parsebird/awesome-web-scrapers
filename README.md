@@ -90,6 +90,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [Data Cleaner](https://apify.com/parsebird/data-cleaner?fpr=5wqcrs) - Clean messy data — remove nulls, normalize case, trim whitespace, format phone numbers and emails, extract domains, and convert types. Works with Apify datasets or direct JSON input. `pay-per-event`
 - [Data Deduplicator](https://apify.com/parsebird/dataset-deduplicator?fpr=5wqcrs) - Merge and deduplicate Apify datasets by any field combination. Remove duplicate rows while keeping first or last occurrence. Supports case-insensitive matching. `pay-per-event`
 - [HTTP Request](https://apify.com/parsebird/http-request-actor?fpr=5wqcrs) - Send HTTP requests (GET, POST, PUT, PATCH, DELETE) to any API endpoint with customizable headers, parameters, and body data. Forward responses via callback URL. `pay-per-event`
+- [RSS Feed Scraper](https://apify.com/technicaldost/rss-feed-scraper) - Convert public RSS and Atom feeds to dataset rows with per-feed item limits and explicit metadata and error records. `pay-per-event`
 
 ---
 
