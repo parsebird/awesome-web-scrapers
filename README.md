@@ -80,6 +80,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 ## Developer Tools & AI
 
 - [Agent Skills Scraper](https://apify.com/parsebird/agent-skills-scraper?fpr=5wqcrs) - Extract deep metadata from skills.sh, the open agent skills directory. Scrape weekly installs, GitHub stars, security audits, agent adoption breakdown, and SKILL.md content. `pay-per-event`
+- [URL & Meta Extractor](https://apify.com/yummy_persimmon_er1/url-title-meta-extractor) - Extracts page title and meta description from any URL via API. Useful for bulk SEO audits, data enrichment, and link-preview checks. `pay-per-event`
 
 ## Media & Content
 
