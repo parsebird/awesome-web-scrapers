@@ -56,6 +56,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 
 ## Local Business & Lead Generation
 
+- [LinkedIn Company by Domain](https://apify.com/george.the.developer/linkedin-company-by-domain) - Resolve website domains to candidate LinkedIn company pages, with confidence levels and optional unresolved-domain rows. `pay-per-event`
 - [YellowPages USA Lead Generator](https://apify.com/parsebird/yellowpages-scraper?fpr=5wqcrs) - Scrape business listings from YellowPages.com. Extract names, phone numbers, emails, addresses, ratings, reviews, hours, and websites for any industry and US city. `pay-per-event`
 - [BuildZoom Scraper](https://apify.com/parsebird/buildzoom-scraper?fpr=5wqcrs) - Scrape contractor data from BuildZoom. Search by city and trade, filter by construction type and project value. Extract BZ scores, licenses, permits, reviews, and contact info for 4M+ US contractors. `pay-per-event`
 - [Yandex Maps Scraper](https://apify.com/parsebird/yandex-maps-scraper?fpr=5wqcrs) - Extract business data from Yandex Maps at scale — phones, emails, addresses, ratings, reviews, photos, working hours, and 60+ fields for cities in Russia, Turkey, Kazakhstan, and CIS countries. `pay-per-event`
