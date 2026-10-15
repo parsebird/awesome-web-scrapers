@@ -23,6 +23,8 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [Newsletters & Publishing](#newsletters--publishing)
 - [Design & Creative](#design--creative)
 - [Developer Tools & AI](#developer-tools--ai)
+- [E-commerce & Shopping](#e-commerce--shopping)
+- [Travel & Hospitality](#travel--hospitality)
 - [Media & Content](#media--content)
 - [Data Utilities](#data-utilities)
 - [Browser Extensions](#browser-extensions)
@@ -80,6 +82,16 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 ## Developer Tools & AI
 
 - [Agent Skills Scraper](https://apify.com/parsebird/agent-skills-scraper?fpr=5wqcrs) - Extract deep metadata from skills.sh, the open agent skills directory. Scrape weekly installs, GitHub stars, security audits, agent adoption breakdown, and SKILL.md content. `pay-per-event`
+
+## E-commerce & Shopping
+
+- [Amazon Best Sellers Scraper](https://apify.com/zet46/amazon-best-sellers-scraper) - Scrape Amazon Best Sellers, New Releases, and sub-category charts across 17 marketplaces (US, UK, DE, FR, ES, IT, JP, CA, AU, IN, and more). Extract rank, ASIN, title, image, rating, review count, price, byline, and format metadata. `pay-per-event`
+
+## Travel & Hospitality
+
+- [Google Hotels Scraper](https://apify.com/zet46/google-hotels-scraper) - Scrape live hotel prices from Google Hotels — nightly rates and room types from Booking.com, Expedia, Agoda, Hotels.com, and 50+ OTAs. Supports date ranges, party size, class/rating/price filters, amenity names, and `/travel/hotels/entity/<token>` URLs. `pay-per-event`
+- [Google Hotels Price Calendar](https://apify.com/zet46/google-hotels-price-calendar) - Scrape daily hotel rates for 30/60/90-day windows from Google Hotels — build price history, detect weekend/holiday spikes, and run OTA rate parity checks. `pay-per-event`
+- [Google Vacation Rentals Scraper](https://apify.com/zet46/google-vacation-rentals-scraper) - Scrape vacation rental listings from Google Vacation Rentals — prices and availability from Vrbo, Booking.com, Airbnb, and other providers. Filter by dates, guests, bedrooms, and property type. `pay-per-event`
 
 ## Media & Content
 
