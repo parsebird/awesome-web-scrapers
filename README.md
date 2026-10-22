@@ -19,6 +19,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [Job Boards](#job-boards)
 - [Real Estate](#real-estate)
 - [Local Business & Lead Generation](#local-business--lead-generation)
+- [App Stores & Reviews](#app-stores--reviews)
 - [Social Media](#social-media)
 - [Newsletters & Publishing](#newsletters--publishing)
 - [Design & Creative](#design--creative)
@@ -40,6 +41,8 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 
 - [Superinvestor Portfolio Scraper](https://apify.com/parsebird/superinvestor-scraper?fpr=5wqcrs) - Scrape portfolio holdings of 82 tracked superinvestors from Dataroma. Get stock positions, allocation percentages, recent activity, and sector breakdowns for investors like Buffett, Ackman, and Klarman. `pay-per-event`
 - [SEC Insider Scraper](https://apify.com/parsebird/sec-insider-scraper?fpr=5wqcrs) - Scrape real-time SEC Form 4 insider transaction data. Filter by timeframe, transaction type, minimum amount, and stock symbols. Get insider buys/sells with filing dates, prices, and SEC links. `pay-per-event`
+- [SEC EDGAR Full-Text Search](https://apify.com/contented_catwalk/sec-edgar-full-text-search) - Search SEC EDGAR filings since 2001 by phrase, form type, ticker, and date via the official SEC full-text search. Returns company, CIK, form, 8-K items, and direct document links. `pay-per-event`
+- [SEC Insider Trading Tracker: Form 4 + 8-K Alerts](https://apify.com/contented_catwalk/sec-insider-trades-8k-alerts) - Track SEC Form 4 insider buys and sells as clean rows (insider, role, transaction code, shares, price, value) filtered by ticker, date, type, and size, plus 8-K item alerts. Only-new mode. `pay-per-event`
 
 ## Job Boards
 
@@ -47,6 +50,8 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [We Work Remotely Jobs Scraper](https://apify.com/parsebird/wwr-jobs-scraper?fpr=5wqcrs) - Scrape remote job listings from the world's largest remote job board. Filter by category, country, salary range, engagement type, and skills. `pay-per-event`
 - [Dribbble Jobs Scraper](https://apify.com/parsebird/dribbble-jobs-scraper?fpr=5wqcrs) - Scrape design job listings from Dribbble. Filter by specialty, location, remote, full-time, or freelance. `pay-per-event`
 - [Hiring.cafe Jobs Scraper](https://apify.com/parsebird/hiring-cafe-scraper?fpr=5wqcrs) - Scrape detailed job listings from Hiring.cafe — titles, salaries, companies, locations, tech stacks, and 30+ fields from 2.8M+ aggregated postings across 46 ATS platforms. `pay-per-event`
+- [Career Site Jobs Search](https://apify.com/contented_catwalk/ats-jobs-search) - Search live jobs from company career sites on Greenhouse, Lever, Ashby, and Workable by title, location, remote, salary, and date. No company list needed; daily-refreshed index built from official public job-board APIs. `pay-per-event`
+- [Greenhouse, Lever, Ashby & Workable Jobs Scraper](https://apify.com/contented_catwalk/greenhouse-lever-ashby-jobs) - Pull jobs from the companies you choose on 4 ATS platforms into one normalized dataset — title, location, remote, department, salary, dates, apply URL, and description. `pay-per-event`
 
 ## Real Estate
 
@@ -60,6 +65,11 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [BuildZoom Scraper](https://apify.com/parsebird/buildzoom-scraper?fpr=5wqcrs) - Scrape contractor data from BuildZoom. Search by city and trade, filter by construction type and project value. Extract BZ scores, licenses, permits, reviews, and contact info for 4M+ US contractors. `pay-per-event`
 - [Yandex Maps Scraper](https://apify.com/parsebird/yandex-maps-scraper?fpr=5wqcrs) - Extract business data from Yandex Maps at scale — phones, emails, addresses, ratings, reviews, photos, working hours, and 60+ fields for cities in Russia, Turkey, Kazakhstan, and CIS countries. `pay-per-event`
 - [Yandex Maps Reviews Scraper](https://apify.com/parsebird/yandex-maps-reviews-scraper?fpr=5wqcrs) - Scrape reviews from any business on Yandex Maps — full text, star rating, author profile, date, photos, videos, business reply, and review aspects. 35 fields per review. `pay-per-event`
+
+## App Stores & Reviews
+
+- [App Store Reviews Scraper & Monitor](https://apify.com/contented_catwalk/app-store-reviews-monitor) - Apple App Store reviews from Apple's public review feed across country storefronts. Only-new-since-last-run monitoring, per-version rating trends, and deduplicated rows. `pay-per-event`
+- [Google Play Reviews Scraper & Monitor](https://apify.com/contented_catwalk/google-play-reviews-monitor) - Google Play reviews with rating, text, app version, and developer reply, plus an only-new-since-last-run mode for alerts. Optional App Store reviews in the same format. `pay-per-event`
 
 ## Social Media
 
@@ -80,6 +90,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 ## Developer Tools & AI
 
 - [Agent Skills Scraper](https://apify.com/parsebird/agent-skills-scraper?fpr=5wqcrs) - Extract deep metadata from skills.sh, the open agent skills directory. Scrape weekly installs, GitHub stars, security audits, agent adoption breakdown, and SKILL.md content. `pay-per-event`
+- [Website Screenshot & URL to PDF](https://apify.com/contented_catwalk/website-screenshot-pdf-renderer) - Batch full-page website screenshots and PDFs in desktop, tablet, and mobile sizes (PNG/JPEG/WebP/PDF), with cookie-banner dismissal, lazy-load scrolling, and wait-for-selector. `pay-per-event`
 
 ## Media & Content
 
