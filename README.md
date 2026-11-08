@@ -16,6 +16,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 
 - [Prediction Markets](#prediction-markets)
 - [Finance & Investing](#finance--investing)
+- [E-commerce & Shopping](#e-commerce--shopping)
 - [Job Boards](#job-boards)
 - [Real Estate](#real-estate)
 - [Local Business & Lead Generation](#local-business--lead-generation)
@@ -40,6 +41,12 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 
 - [Superinvestor Portfolio Scraper](https://apify.com/parsebird/superinvestor-scraper?fpr=5wqcrs) - Scrape portfolio holdings of 82 tracked superinvestors from Dataroma. Get stock positions, allocation percentages, recent activity, and sector breakdowns for investors like Buffett, Ackman, and Klarman. `pay-per-event`
 - [SEC Insider Scraper](https://apify.com/parsebird/sec-insider-scraper?fpr=5wqcrs) - Scrape real-time SEC Form 4 insider transaction data. Filter by timeframe, transaction type, minimum amount, and stock symbols. Get insider buys/sells with filing dates, prices, and SEC links. `pay-per-event`
+
+## E-commerce & Shopping
+
+- [Mercari Japan Price Summary](https://apify.com/jpmarketdata/mercari-japan-price-checker) - Get sampled sold-out or live listing price statistics by keyword for repeat resale research, with JSON/CSV export. Source status is not independent payment verification. `pay-per-event`
+- [Yahoo! Auctions Japan Sold Price Summary & History](https://apify.com/jpmarketdata/yahoo-auction-sold-comps) - Get sampled price summaries from priced ended auctions with bids and optional monthly history for resale research. `pay-per-event`
+- [Yahoo! Auctions Japan Listings](https://apify.com/jpmarketdata/yahoo-auction-listings) - Export live or ended auction rows with auction IDs for recurring database ingestion. Each repeat run charges delivered rows again. `pay-per-event`
 
 ## Job Boards
 
