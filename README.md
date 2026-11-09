@@ -48,6 +48,8 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [Dribbble Jobs Scraper](https://apify.com/parsebird/dribbble-jobs-scraper?fpr=5wqcrs) - Scrape design job listings from Dribbble. Filter by specialty, location, remote, full-time, or freelance. `pay-per-event`
 - [Hiring.cafe Jobs Scraper](https://apify.com/parsebird/hiring-cafe-scraper?fpr=5wqcrs) - Scrape detailed job listings from Hiring.cafe — titles, salaries, companies, locations, tech stacks, and 30+ fields from 2.8M+ aggregated postings across 46 ATS platforms. `pay-per-event`
 
+- [ATS Source Health & Job Delta Feed](https://apify.com/logical_resourcefulnes/ats-source-health-job-delta) - Track authorized Greenhouse, Lever and Ashby job-board changes with source-health diagnostics and guarded closure candidates. `pay-per-event`
+
 ## Real Estate
 
 - [Funda.nl Real Estate Scraper](https://apify.com/parsebird/funda-scraper?fpr=5wqcrs) - Scrape Dutch real estate listings from funda.nl — prices, photos, coordinates, characteristics, neighborhood data, and more. `pay-per-event`
