@@ -96,6 +96,7 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 ## Browser Extensions
 
 - [Apify Stats by ParseBird](https://chromewebstore.google.com/detail/pnmhnchcamgapoincnmnklacebbmfcfg?utm_source=github) - Reveals pricing, MAU, and last update on every Apify Store actor card. Includes bookmark dashboard, developer radar, and sort/filter tools. `free` `chrome`
+- [List & Table Web Scraper](https://chromewebstore.google.com/detail/list-table-web-scraper-ex/jikilncomjfjaphhffkghehnackohggf) - Finds the table or list on a page and exports it to CSV, Excel or JSON; follows Next pages and infinite scroll. Also on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/list-table-scraper/). `freemium` `chrome` `firefox`
 
 ---
 
