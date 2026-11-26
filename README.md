@@ -60,6 +60,8 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [BuildZoom Scraper](https://apify.com/parsebird/buildzoom-scraper?fpr=5wqcrs) - Scrape contractor data from BuildZoom. Search by city and trade, filter by construction type and project value. Extract BZ scores, licenses, permits, reviews, and contact info for 4M+ US contractors. `pay-per-event`
 - [Yandex Maps Scraper](https://apify.com/parsebird/yandex-maps-scraper?fpr=5wqcrs) - Extract business data from Yandex Maps at scale — phones, emails, addresses, ratings, reviews, photos, working hours, and 60+ fields for cities in Russia, Turkey, Kazakhstan, and CIS countries. `pay-per-event`
 - [Yandex Maps Reviews Scraper](https://apify.com/parsebird/yandex-maps-reviews-scraper?fpr=5wqcrs) - Scrape reviews from any business on Yandex Maps — full text, star rating, author profile, date, photos, videos, business reply, and review aspects. 35 fields per review. `pay-per-event`
+- [Trustpilot Reviews Scraper](https://actors.techlion.dev/trustpilot-reviews-scraper/) - Pull public Trustpilot reviews with ratings and dates, no login. `pay-per-event`
+
 
 ## Social Media
 
@@ -90,6 +92,10 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [Data Cleaner](https://apify.com/parsebird/data-cleaner?fpr=5wqcrs) - Clean messy data — remove nulls, normalize case, trim whitespace, format phone numbers and emails, extract domains, and convert types. Works with Apify datasets or direct JSON input. `pay-per-event`
 - [Data Deduplicator](https://apify.com/parsebird/dataset-deduplicator?fpr=5wqcrs) - Merge and deduplicate Apify datasets by any field combination. Remove duplicate rows while keeping first or last occurrence. Supports case-insensitive matching. `pay-per-event`
 - [HTTP Request](https://apify.com/parsebird/http-request-actor?fpr=5wqcrs) - Send HTTP requests (GET, POST, PUT, PATCH, DELETE) to any API endpoint with customizable headers, parameters, and body data. Forward responses via callback URL. `pay-per-event`
+- [Sitemap URL Extractor](https://actors.techlion.dev/sitemap-url-extractor/) - Extract every URL from a site's XML sitemaps and indexes. `pay-per-event`
+- [TechLion Dev Apify Actors](https://actors.techlion.dev) - 23 no-login scrapers for public data: app and review sites (Google Play, Trustpilot), job feeds, business leads, federal contracts, sitemaps, RSS, WHOIS and web archives. `pay-per-event`
+
+
 
 ---
 
