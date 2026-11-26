@@ -62,7 +62,6 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [Yandex Maps Reviews Scraper](https://apify.com/parsebird/yandex-maps-reviews-scraper?fpr=5wqcrs) - Scrape reviews from any business on Yandex Maps — full text, star rating, author profile, date, photos, videos, business reply, and review aspects. 35 fields per review. `pay-per-event`
 - [Trustpilot Reviews Scraper](https://actors.techlion.dev/trustpilot-reviews-scraper/) - Pull public Trustpilot reviews with ratings and dates, no login. `pay-per-event`
 
-
 ## Social Media
 
 - [Rednote (Xiaohongshu) Profile Scraper](https://apify.com/parsebird/rednote-profile-scraper?fpr=5wqcrs) - Scrape user profiles from Rednote (小红书) — bio, follower count, following, likes, RedID, location, gender, and tags. `pay-per-event`
@@ -94,7 +93,6 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [HTTP Request](https://apify.com/parsebird/http-request-actor?fpr=5wqcrs) - Send HTTP requests (GET, POST, PUT, PATCH, DELETE) to any API endpoint with customizable headers, parameters, and body data. Forward responses via callback URL. `pay-per-event`
 - [Sitemap URL Extractor](https://actors.techlion.dev/sitemap-url-extractor/) - Extract every URL from a site's XML sitemaps and indexes. `pay-per-event`
 - [TechLion Dev Apify Actors](https://actors.techlion.dev) - 23 no-login scrapers for public data: app and review sites (Google Play, Trustpilot), job feeds, business leads, federal contracts, sitemaps, RSS, WHOIS and web archives. `pay-per-event`
-
 
 
 ---
