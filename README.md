@@ -94,7 +94,6 @@ Whether you're building a data pipeline, monitoring competitors, feeding an AI m
 - [Sitemap URL Extractor](https://actors.techlion.dev/sitemap-url-extractor/) - Extract every URL from a site's XML sitemaps and indexes. `pay-per-event`
 - [TechLion Dev Apify Actors](https://actors.techlion.dev) - 23 no-login scrapers for public data: app and review sites (Google Play, Trustpilot), job feeds, business leads, federal contracts, sitemaps, RSS, WHOIS and web archives. `pay-per-event`
 
-
 ---
 
 ## Browser Extensions
